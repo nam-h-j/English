@@ -11,7 +11,7 @@
 
 ## being
 ### 동사와 접속
-- 주어 + 동사 + to + 동사원형
+- 주어 + 동사 + to부정사(to + 동사원형)
 - 주어 + 동사 + 동명사(동사 + ing)
 ### 느낌(형용사),명사와 접속
 - 주어 + 동사 + to + be + 형용사, 명사
@@ -24,8 +24,12 @@
 
 ### 전치사뒤에 접속
 - 전치사 뒤에는 목적어로 명사(and 대명사), 동명사, wh~(who, whom, whose, what, which, where, when, why, how, whether) 만 올수있다
-- 이 뒤에 형용사로 접속하고 싶으면 being + 형용사 로 접속 할 수 있다.
+- 전치사 이 뒤에 형용사로 접속하고 싶으면 being + 형용사 로 접속 할 수 있다.
 - I am thinking about you. (명사)
 - I am thinking about moving. (동명사)
-- I am used to living alone (
-- I am used to being single
+- I am used to living alone (동명사)
+- I am used to being single (being + 형용사)
+
+## 전치사 to, to부정사
+- 전치사 to + 동명사
+- to부정사는 to + 동사원형
