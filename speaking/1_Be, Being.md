@@ -1,4 +1,4 @@
-# 1_Be, Being
+# 1_Be, Being, 전치사to, to부정사
 - I am + 느낌(형용사), 명사
   - 형용사 : tired, stressed out, embarrassed, depressed, happy, sad, sick, drunk ...
 - I + 동사
@@ -23,8 +23,7 @@
 - I enjoy being lonley
 
 ### 전치사뒤에 접속
-- at, in, about, with...
-- 전치사 뒤에는 명사, 동명사만 올수 있다.
+- 전치사 뒤에는 목적어로 명사(and 대명사), 동명사, wh~(who, whom, whose, what, which, where, when, why, how, whether) 만 올수있다
 - 이 뒤에 형용사로 접속하고 싶으면 being + 형용사 로 접속 할 수 있다.
 - I am thinking about you. (명사)
 - I am thinking about moving. (동명사)
