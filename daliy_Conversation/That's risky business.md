@@ -8,21 +8,21 @@ A: I left up bit. Nothing earth-shattering, but still, ahead.
 B: Well done. I hope you quit while you're ahead.
 
 ## Additional Expressions
-*I went to the horse track.
+* I went to the horse track.
 – I visited the horse racing track. / I paid a visit to the horse races.
-*placed a few bets
+* placed a few bets
 – made a couple bets / bet a little / put down several bets / wagered several bets
-*That’s risky business!
+* That’s risky business!
 – That’s dangerous! / That’s taking a big risk! / You took a dangerous chance!
-*How did you fare?
+* How did you fare?
 – How did things turn out? / How did it go? / Did you win or lose?
-*I left up a bit.
+* I left up a bit.
 – I went home with a little more than I started with. / I got out of there with a small increase.
-*Nothing earth-shattering, but still, ahead.
+* Nothing earth-shattering, but still, ahead.
 – It wasn’t huge money, but nonetheless, a small profit.
-*Well done.
+* Well done.
 – Good job. / Congratulations. / Nicely done.
-*I hope you quit while you’re ahead.
+* I hope you quit while you’re ahead.
 – I hope you don’t do it again and start to lose all your money.
 
 ## Translate
