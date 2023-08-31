@@ -21,6 +21,7 @@ B: Well done. I hope you quit while you're ahead.<br>
 – How did things turn out? / How did it go? / Did you win or lose?
 
 ### I left up a bit.
+- <-> I left down a bit.
 – I went home with a little more than I started with. / I got out of there with a small increase.
 
 ### Nothing earth-shattering, but still, ahead.
