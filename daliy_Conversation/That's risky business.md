@@ -8,8 +8,8 @@ A: I left up bit. Nothing earth-shattering, but still, ahead.<br>
 B: Well done. I hope you quit while you're ahead.<br>
 
 ## Additional Expressions
-– I went to the horse track.<br>
-  – I visited the horse racing track. / I paid a visit to the horse races.<br>
+– I went to the horse track.
+  – I visited the horse racing track. / I paid a visit to the horse races.
 – placed a few bets<br>
   – made a couple bets / bet a little / put down several bets / wagered several bets<br>
 – That’s risky business!<br>
