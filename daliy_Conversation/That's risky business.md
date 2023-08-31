@@ -2,7 +2,7 @@
 - 그건 좀 위험한 일인데
 
 ## Conversation
-A: I went to the horse track and placed a few bets.<br><
+A: I went to the horse track and placed a few bets.<br>
 B: That's risky business! How did you fare?<br>
 A: I left up bit. Nothing earth-shattering, but still, ahead.<br>
 B: Well done. I hope you quit while you're ahead.<br>
