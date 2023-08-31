@@ -22,7 +22,7 @@ B: Well done. I hope you quit while you're ahead.<br>
 
 ### I left up a bit.
 - <-> I left down a bit.
-– I went home with a little more than I started with. / I got out of there with a small increase.
+- I went home with a little more than I started with. / I got out of there with a small increase.
 
 ### Nothing earth-shattering, but still, ahead.
 – It wasn’t huge money, but nonetheless, a small profit.
